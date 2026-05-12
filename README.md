@@ -24,7 +24,7 @@ I am interested in — solving differential equations numerically, analyzing non
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
