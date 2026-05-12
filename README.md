@@ -16,8 +16,6 @@
 ##  About Me
 
 I’m a **B.Tech Mathematics & Computing student at IGDTUW** with a strong interest in **computational physics and numerical methods**.
-
-I am interested in — solving differential equations numerically, analyzing nonlinear and chaotic systems.
 ---
 
 ## Tech Stack
