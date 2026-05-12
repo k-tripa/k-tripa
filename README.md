@@ -33,14 +33,6 @@ I am interested in — solving differential equations numerically, analyzing non
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
 
-### Numerical & Scientific Computing
-- Runge–Kutta Methods (RK4, RK45)
-- Euler Method
-- Adaptive ODE Solvers
-- Lyapunov Exponent Estimation
-- Dynamical Systems Simulation
-
----
 
 ##  Core Interests
 
